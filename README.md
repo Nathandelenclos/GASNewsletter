@@ -3,34 +3,24 @@
 [![version](https://img.shields.io/badge/Version-1.0-vert)](https://github.com/Nathandelenclos/GASNewsletter)
 
 This project Is Google App Script project deployed in webapp.
-This Project is platform for subscribe, unsubscribe and post newsletter with http request.
-
+This Project is platform for subscribe, unsubscribe and post newsletter with http request. <br>
+You can check this repo [GASNewsletter-actions](https://github.com/Nathandelenclos/GASnewsletter-actions)
 ***
 ## Table of Contents
 
 -  [About](#about)
--  [Prerequisites](#prerequisites)
 -  [Install](#installation)
 -  [Documentation](#documentation)
 -  [Languages](#languages)
--  [Demo](#demo)
 -  [Contact](#contact)
 -  [License](#license)
 ***
 
 ## About
 <div id="about"></div>
+
 This project Is Google App Script project deployed in webapp.<br>
 This Project is platform for subscribe, unsubscribe and post newsletter with http request.
-
-***
-
-## Prerequisites
-<div id="prerequisites"></div>
-
-```
-
-```
 
 ***
 
@@ -72,12 +62,14 @@ This Project is platform for subscribe, unsubscribe and post newsletter with htt
 [![C](https://img.shields.io/badge/-Javascript-yellow)](https://github.com/dktunited/jetlane-gmao/search?l=javascript)
 [![C](https://img.shields.io/badge/-HTML-red)](https://github.com/dktunited/jetlane-gmao/search?l=javascript)
 
-
+***
 
 ## Contact
 <div id="contact"></div>
 
 -  [Nathan DELENCLOS](mailto:nathan.delenclos@epitech.eu) - Developer
+
+***
 
 ## License
 <div id="license"></div>
