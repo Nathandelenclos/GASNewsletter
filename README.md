@@ -10,7 +10,6 @@ You can check this repo [GASNewsletter-actions](https://github.com/Nathandelencl
 
 -  [About](#about)
 -  [Install](#installation)
--  [Documentation](#documentation)
 -  [Languages](#languages)
 -  [Contact](#contact)
 -  [License](#license)
@@ -49,9 +48,6 @@ This Project is platform for subscribe, unsubscribe and post newsletter with htt
    clasp push
    ```
 6. Go to Google App Script & deploy on webapp.
-***
-## Documentation
-<div id="documentation"></div>
 
 ***
 
