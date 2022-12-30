@@ -1,0 +1,32 @@
+{
+  "name": "gasnewletter",
+  "version": "1.0.0",
+  "description": "google app script project for manage newsletter",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Nathandelenclos/GASNewsletter.git"
+  },
+  "keywords": [
+    "google",
+    "app",
+    "script",
+    "newsletter",
+    "newsletter",
+    "manager",
+    "gas"
+  ],
+  "author": "Nathan Delenclos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nathandelenclos/GASNewsletter/issues"
+  },
+  "homepage": "https://github.com/Nathandelenclos/GASNewsletter#readme",
+  "dependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.56"
+  }
+}
