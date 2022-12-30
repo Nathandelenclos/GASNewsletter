@@ -48,6 +48,7 @@ This Project is platform for subscribe, unsubscribe and post newsletter with htt
    clasp push
    ```
 6. Go to Google App Script & deploy on webapp.
+7. On script properties add keys `PASSWORD` (password for send newsletter) and `SS_DATABASE` (id of spreadsheet where content all mails) (this spreadsheet must content a sheet named `MAILS`)
 
 ***
 
